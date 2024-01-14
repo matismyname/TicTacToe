@@ -1,0 +1,11 @@
+This is a simple TicTacToe game. You can play against another human or the computer (not implemented).
+The victory screen is broken, I do not understand why.
+
+This is my first game written in SDL.
+
+Set your constants in the constants.h file.
+
+Logger included, Linux+GNU specific.
+
+Controls:
+When in the game, press Q to quit, B to go back to the menu, N for a new game.
